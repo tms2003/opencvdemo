@@ -1,0 +1,11 @@
+OPENCV study
+- 01 show img with origin img array
+- 02 filter2D
+- 01_3 opencv filter2D
+- 03_1 两张图片的线性融合
+- 03_2 亮度和对比度增强
+- 03_3 call 线性变换API
+- 04_1 膨胀
+- 04_2 腐蚀
+- 07_1 高级形态学操作
+- otsu algorithm
